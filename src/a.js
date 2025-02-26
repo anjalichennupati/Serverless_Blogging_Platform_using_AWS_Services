@@ -1,5 +1,0 @@
-a= {
-  "body": "[{\"blogId\":\"blog_0.7933067918085275\",\"title\":\"title1\",\"content\":\"content1\",\"author\":\"author1\"},{\"blogId\":\"blog_0.7992715089181011\",\"title\":\"My First Blog\",\"content\":\"This is the content of my first blog post.\",\"author\":\"John Doe\"},{\"blogId\":\"blog_0.8092091131731767\",\"title\":\"My Secone Blog\",\"content\":\"This is the content of my first blog post.\",\"author\":\"Joe\"},{\"blogId\":\"blog_0.27084241505493223\",\"title\":\"My First Blog\",\"content\":\"This is the content of my first blog post.\",\"author\":\"John Doe\"},{\"blogId\":\"blog_0.12991997255512988\",\"title\":\"My Fourth Blog\",\"content\":\"This is the content of my first blog post.\",\"author\":\"Joseph\"},{\"blogId\":\"blog_0.6585443996024007\",\"title\":\"bloh7\",\"content\":\"jsnfclkjs\",\"author\":\"akdhueoi\"}]"
-}
- 
-console.log(a['body'])
