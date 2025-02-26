@@ -5,7 +5,7 @@
 
 ## Overview  
 
-This project is a serverless blogging platform designed for scalability, cost efficiency, and ease of management using Amazon Web Services (AWS). Traditional blogging platforms often struggle with infrastructure overhead and scaling issues. By leveraging AWS Lambda, Amazon API Gateway, and Amazon DynamoDB, this project ensures automatic scaling, high availability, and minimal operational maintenance.  The platform dynamically adjusts to traffic demands, providing a seamless user experience while optimizing costs. Currently, only the **frontend** is hosted as deploying the backend on AWS would exceed my free-tier limit, leading to additional costs. However, you can set up the backend using your **own AWS free-tier account** by following the installation steps. The hosted frontend is just a preview of the platform’s interface. Below is an overview of the analysis, along with sample outputs and results. This project was done in Dec' 2024.
+This project is a serverless blogging platform designed for scalability, cost efficiency, and ease of management using Amazon Web Services (AWS). Traditional blogging platforms often struggle with infrastructure overhead and scaling issues. By leveraging AWS Lambda, Amazon API Gateway, and Amazon DynamoDB, this project ensures automatic scaling, high availability, and minimal operational maintenance.  The platform dynamically adjusts to traffic demands, providing a seamless user experience while optimizing costs. Below is an overview of the analysis, along with sample outputs and results. This project was done in Dec' 2024.
 
 
 
